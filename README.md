@@ -1,20 +1,20 @@
-# Hi 👋, I'm @Rooneyish
+# Hi 👋, I'm @Rooneyish (Ronish Prajapati)
 
 A passionate developer and artist with interests in coding, arts, football, and music.
 
 - 👀 I’m interested in coding, arts, football, and music
 - 🌱 I’m currently learning through the Odin Project
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me: [your email here]
+- 📫 How to reach me: ronishpragapati50@gmail.com / ilustraterp@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can bend my thumb in the opposite direction
+- 📺 Huge fan of the Vikings series
 
 ## Connect with me:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=whit)](https://x.com/ronneyish)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronish-prajapati-2997a8287/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rooney.ish/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/760105305383370805)
-)
 
 ## Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
