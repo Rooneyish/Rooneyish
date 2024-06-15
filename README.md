@@ -18,7 +18,7 @@
 
 - 🔴 😈 Once a Red always a Red. (Manchester is Red)
 
-<iframe src="https://giphy.com/embed/HzPtbOKyBoBFsK4hyc" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fomoduck-duck-fomo-forever-squad-HzPtbOKyBoBFsK4hyc">via GIPHY</a></p>
+<img align="center" width="400" src="https://giphy.com/embed/HzPtbOKyBoBFsK4hyc">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
