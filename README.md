@@ -18,9 +18,11 @@
 
 - 🔴 😈 Once a Red always a Red. (Manchester is Red)
 
+<iframe src="https://giphy.com/embed/HzPtbOKyBoBFsK4hyc" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fomoduck-duck-fomo-forever-squad-HzPtbOKyBoBFsK4hyc">via GIPHY</a></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ronneyish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ronneyish" height="30" width="40" /></a>
+<a href="https://twitter.com/ronneyish" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg" alt="ronneyish" height="30" width="40" /></a>
 <a href="https://instagram.com/rooney.ish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rooney.ish" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ronish-prajapati-2997a8287/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="rooneyish" height="30" width="40"></a>
 <a href="https://discordapp.com/users/760105305383370805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rooney.ish" height="30" width="40"></a>
