@@ -7,10 +7,18 @@
 
 - 📫 How to reach me **ronishprajapati50@gmail.com / ilustraterp@gmail.com**
 
+- 😄 Pronouns: he/him
+
+- ⚡ Fun fact: I can bend my thumb in the opposite direction
+  
+- 📺 Huge fan of the Vikings series
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ronneyish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ronneyish" height="30" width="40" /></a>
 <a href="https://instagram.com/rooney.ish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rooney.ish" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ronish-prajapati-2997a8287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="rooneyish" height="30" width="40"></a>
+<a href="https://discordapp.com/users/760105305383370805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rooney.ish" height="30" width="40"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
