@@ -18,7 +18,7 @@
 
 - 🔴 😈 Once a Red always a Red. (Manchester is Red)
 
-<h4><a href="https://rooneyish.github.io/odin-dashboard/" traget="blank">Click to See My Projects(Dashboard)</a></h4>
+<h4><a href="https://rooneyish.github.io/odin-dashboard/" target="blank">Click to See My Projects(Dashboard)</a></h4>
 
 <img align="center" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMng3Zjc3dzJ0MDY1eWpyMTJ4aDA1YndobnZ4NjM5MTc3Z253dGhtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.webp">
 
