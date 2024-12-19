@@ -3,11 +3,9 @@
 
 
 - 👀 I’m interested in coding, arts, football, and music
+
+- Currently working on Game Information Management System for college project.
   
-- 🔭 I’m currently working on **Odin-Dashboard**
-
-- 🌱 I’m currently learning through **The Odin Project**
-
 - 📫 How to reach me **ronishprajapati50@gmail.com / ilustraterp@gmail.com**
 
 - 😄 Pronouns: he/him
