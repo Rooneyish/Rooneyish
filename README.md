@@ -9,8 +9,6 @@
 - 📫 How to reach me **ronishprajapati50@gmail.com / ilustraterp@gmail.com**
 
 - 😄 Pronouns: he/him
-
-- ⚡ Fun fact: I can bend my thumb in the opposite direction
   
 - 📺 Huge fan of the Vikings series
 
