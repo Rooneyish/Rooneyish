@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in coding, arts, football, and music
 
-- Currently working on Game Information Management System for college project.
+- Currently continuing the Odin Project that I left for 4 months. 
   
 - 📫 How to reach me **ronishprajapati50@gmail.com / ilustraterp@gmail.com**
 
