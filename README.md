@@ -1,22 +1,25 @@
 <h1 align="center">Hi 👋, I'm rooneyish (Ronish Prajapati)</h1>
-<h3 align="center">A passionate developer, learner, artist from Nepal</h3>
+<h3 align="center">A passionate software developer, learner, artist from Nepal</h3>
 
 
 - 👀 I’m interested in coding, arts, football, and music
-
+- 🚀 Always up for a challenge and ready to collaborate on exciting projects.
 - Currently continuing the Odin Project that I left for 4 months. 
-  
 - 📫 How to reach me **ronishprajapati50@gmail.com / ilustraterp@gmail.com**
-
 - 😄 Pronouns: he/him
-  
 - 📺 Huge fan of the Vikings series
-
 - 🔴 😈 Once a Red always a Red. (Manchester is Red)
 
-<h4><a href="https://rooneyish.github.io/odin-dashboard/" target="blank">Click to See My Projects(Dashboard)</a></h4>
+## GitHub Stats
 
-<img align="center" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMng3Zjc3dzJ0MDY1eWpyMTJ4aDA1YndobnZ4NjM5MTc3Z253dGhtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.webp">
+![Rooneyish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rooneyish&show_icons=true&theme=tokyonight)
+
+
+Here are some of the cool projects I've been working on:
+
+- 🎮 [**GameSpace**](https://github.com/Rooneyish/GameSpace): A Java application to manage game information.
+- ❎ [**Tic-Tac-Toe**](https://github.com/Rooneyish/odin-tic-tac-toe): A simple Tic-Tac-Toe game.
+- 🧮 [**Land-Rental-System**](https://github.com/Rooneyish/LandRentalSystem_Python): A Land-Rental-System using Python.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
