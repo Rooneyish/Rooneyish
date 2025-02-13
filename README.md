@@ -11,12 +11,12 @@
 - 🔴 😈 Once a Red always a Red. (Manchester is Red)
 
 ## GitHub Stats
-
 ![Rooneyish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rooneyish&show_icons=true&theme=tokyonight)
 
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rooneyish&layout=compact&theme=tokyonight)
 
-Here are some of the cool projects I've been working on:
-
+Here are some of the projects I've been working on:
 - 🎮 [**GameSpace**](https://github.com/Rooneyish/GameSpace): A Java application to manage game information.
 - ❎ [**Tic-Tac-Toe**](https://github.com/Rooneyish/odin-tic-tac-toe): A simple Tic-Tac-Toe game.
 - 🧮 [**Land-Rental-System**](https://github.com/Rooneyish/LandRentalSystem_Python): A Land-Rental-System using Python.
