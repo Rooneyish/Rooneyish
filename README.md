@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in coding, arts, football, and music
 - 🚀 Always up for a challenge and ready to collaborate on exciting projects.
-- Currently continuing the Odin Project that I left for 4 months. 
+- Backend Intern at [**Amris Tech**](https://armis-tech-new.netlify.app/)
 - 📫 How to reach me **ronishprajapati50@gmail.com / ilustraterp@gmail.com**
 - 😄 Pronouns: he/him
 - 📺 Huge fan of the Vikings series
