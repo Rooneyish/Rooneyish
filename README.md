@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm rooneyish (Ronish Prajapati)</h1>
-<h3 align="center">A passionate software developer, learner, artist from Nepal</h3>
+<h3 align="center">A passionate Engineer in Progress 🚧 | AI & Math Enthusiast | Learner | Artist from Nepal</h3>
 
 
-- 👀 I’m interested in coding, arts, football, and music
+- 👀 I’m interested in coding, Artificial Intellegence, Machine Learning, arts, football, and music.
 - 🚀 Always up for a challenge and ready to collaborate on exciting projects.
-- Backend Intern at [**Amris Tech**](https://armis-tech-new.netlify.app/)
 - 📫 How to reach me **ronishprajapati50@gmail.com / ilustraterp@gmail.com**
 - 😄 Pronouns: he/him
-- 📺 Huge fan of the Vikings series
+- 📺 Huge fan of the Vikings series.
 - 🔴 😈 Once a Red always a Red. (Manchester is Red)
 
 ## GitHub Stats
